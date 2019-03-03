@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.745 21.455">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #41479b;
+      }
+
+      .cls-2 {
+        fill: #f5f5f5;
+      }
+
+      .cls-3 {
+        fill: #ff4b55;
+      }
+    </style>
+  </defs>
+  <g id="france_1_" data-name="france (1)" transform="translate(0 -88.272)">
+    <path id="Tracé_6230" data-name="Tracé 6230" class="cls-1" d="M10.915,109.726H.565A.565.565,0,0,1,0,109.162V88.837a.565.565,0,0,1,.565-.565H10.915Z" transform="translate(0 0)"/>
+    <rect id="Rectangle_531" data-name="Rectangle 531" class="cls-2" width="10.915" height="21.454" transform="translate(10.915 88.272)"/>
+    <path id="Tracé_6231" data-name="Tracé 6231" class="cls-3" d="M351.684,109.727H341.333V88.273h10.351a.565.565,0,0,1,.565.565v20.325A.565.565,0,0,1,351.684,109.727Z" transform="translate(-319.503 -0.001)"/>
+  </g>
+</svg>
